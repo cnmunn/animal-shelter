@@ -1,0 +1,147 @@
+﻿Rubric (5 points total):
+Timeline (2 points):
+“The project TA has been provided with a list of tasks that the team has left to do before the project is completed. Each task has been given a reasonable deadline.
+
+
+The timeline will need to contain enough detail for your TA to use later in the semester to help determine if the team has fallen off track.”
+
+
+Repository Commits (2):
+“Each team member has committed to the department provided repository at least once. The commits do not have to be code related. An example of three commits could be: 1) a README file, 2) the file(s) for milestone 1, and 3) the file(s) for milestone 2.”
+“The  timeline  and  task  breakdown/assignment  should  have  been  committed  to  the  repository at least two business days[a] prior to the meeting. During the meeting, your TA will discuss your timeline and task breakdown with you and answer any questions/address any concerns you may have.”
+
+
+Description of challenges/things left to do(1):
+Attendance(1)
+
+
+Task Breakdown:
+“The breakdown should be at a level of detail that shows the group has looked into how to accomplish the remaining tasks and the timeline for each item is realistic. Note that we are not asking you to predict every single possible task that you will need to do. That is unrealistic and there are always unexpected situations that arise. We want to see that the group has spent time meaningfully considering what there is left to do and has a plan on how to start accomplishing each of those large items.
+ 
+Each task should be assigned to a particular group member. Unless otherwise stated, it is assumed that all group members will work equally on the project. If this is not the case, state  the  work  percentage  breakdown  for  each  member.  This  will  serve  as  a  written  acknowledgement between all group members that there will be an uneven distribution of work. The member who does not do their fair share of work will have a penalty applied to their final project grade.
+
+
+Each member is expected to implement at least two queries from end to end (i.e., from the  GUI  to  making  the  call  to  the  database).  It  would  not  be  considered  an  equal distribution of work if one person wrote the script to do the table creation/tuple insertion while the other members implemented the project. While each member is not expected to know about every single line of code in the project, it is expected that all members can talk about the overall architecture of the code.”
+
+
+We have less than three weeks from today (Nov 3) to MS4 (Nov 25 Nov 23) to implement all code for this assignment. Commits will be frozen after that: no adjustments between MS4 and our final demo. 
+
+
+MS4 Rubric:
+
+
+Item:
+	Marks
+	Split?
+	Person
+	Due
+	Cover Page + Link
+	1
+	Trivial
+	Randy
+	Nov 19
+	SQL DDL and INSERT statements
+	2
+	Include
+	Randy
+	Friday, Nov 12th
+	PDF + README
+	4
+	Someone takes lead, split 2|1|1
+	Chris
+	Nov 19
+	QUERIES
+	9
+	
+
+	
+
+	
+
+	Insert + Delete
+	1/9
+	V. Easy
+	Chris
+	Friday, Nov 12th
+	Update
+	1/9
+	
+
+	Dan
+	Nov 12
+	Selection
+	1/9
+	Easy
+	Chris
+	Nov 19
+	Projection
+	1/9
+	Easy
+	Chris
+	Nov 19
+	Join
+	1/9
+	Easy
+	Dan
+	Nov 12
+	Aggregation with Group By
+	1/9
+	Hard
+	Dan
+	Nov 12, Nov 19
+	Aggregation with Having
+	1/9
+	Hard
+	Randy
+	
+
+	Nested Aggregation with Group By
+	1/9
+	Hard
+	Dan
+	Nov 12, Nov 19
+	Division
+	1/9
+	Hard
+	Randy
+	
+
+	
+
+Division of work proposal: Everyone is responsible for ~5 marks worth of the rubric
+Everyone will have to help with the PDF+Readme section but realistically one person will probably do the primary write-up (I’m guessing Chris, but I’ve no aversion to doing this) so they get 2 shares/marks there, the other two partners get 1 each 
+Then there are 11 marks for Queries and the set-up. Four of these Queries are conceptually difficult, and may require something different from what I wrote up for MS2. I propose that everyone does at least one “hard” query, and that whoever does two gets a little leniency by getting to choose whichever other easier mark/share they want to do.  
+
+
+Naturally we should help each other out with anything difficult, but the project description requires everyone to be responsible for an equal share of work
+
+
+If we don’t have time to meet today to discuss a specific division of labour, having just this breakdown committed to our repository should be sufficient to get a few marks, but they also expect deadlines.
+
+
+TODO: Come up with deadlines (in theory we could make them up but in practice this is gonna be good for us)
+TODO: Commit our breakdown with deadlines by tonight
+TODO: Everyone must commit something to the repo by tonight by our meeting
+
+
+
+
+Nov 12: One “part” of either SQL or PHP
+Nov 19: Soft deadline for all of MS4
+Nov 23: MS4 Due
+
+
+Nov 12th
+
+
+Chris:
+* Commit HTML page and CSS elements
+* Create framework of PHP pages for Dan and Rany to edit
+* Complete Insert + Delete, Projection queries
+
+
+Randy:
+* SQL DDL, populate tables
+Dan:
+* Work on queries due on the 19
+[a]ie due today, Wed Nov 3
